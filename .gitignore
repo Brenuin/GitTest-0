@@ -1,4 +1,5 @@
 *
 !.gitignore
 !hello.py
+!/assets/
 !/assets/include1.py
